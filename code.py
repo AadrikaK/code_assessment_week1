@@ -1,0 +1,1 @@
+print("Code base assessment week 1")
