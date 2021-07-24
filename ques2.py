@@ -5,7 +5,7 @@ li=input("Enter the string")
 msg=li[0:6]
 #print(msg)
 
-  
+
 connection=smtplib.SMTP("smtp.gmail.com",587)
 connection.starttls()
 connection.login("ridhimathur10@gmail.com","ridhima@10")
